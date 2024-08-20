@@ -42,5 +42,5 @@ $ yarn run start
 $ yarn run start:dev apigateway
 $ yarn run start:dev auth
 
-- Telegram - [Sunnatillo Sharipov](https://t.me/thesunnatillo)
-- X - [Sunnatillo Sharipov](https://twitter.com/sunnatillocoder)
+- Telegram - [SunnatilloSharipov](https://t.me/thesunnatillo)
+- X - [SunnatilloSharipov](https://twitter.com/sunnatillocoder)
